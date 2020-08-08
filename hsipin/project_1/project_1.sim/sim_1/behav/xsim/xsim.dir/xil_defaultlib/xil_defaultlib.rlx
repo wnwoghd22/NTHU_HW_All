@@ -1,0 +1,14 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/hsipin/project_1/project_1.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sim_1/new/test_a.v,1573354564,verilog,,,,test_a,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sim_1/new/test_b.v,1573355863,verilog,,,,test_b,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sim_1/new/test_c.v,1573356752,verilog,,,,test_c,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sources_1/new/a_1.v,1573354986,verilog,,D:/hsipin/project_1/project_1.srcs/sources_1/new/a_2.v,,a_1,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sources_1/new/a_2.v,1573354520,verilog,,D:/hsipin/project_1/project_1.srcs/sim_1/new/test_c.v,,a_2,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sources_1/new/b_1.v,1573355459,verilog,,D:/hsipin/project_1/project_1.srcs/sources_1/new/b_2.v,,b_1,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sources_1/new/b_2.v,1573355584,verilog,,D:/hsipin/project_1/project_1.srcs/sim_1/new/test_b.v,,b_2,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sources_1/new/c_1.v,1573356472,verilog,,D:/hsipin/project_1/project_1.srcs/sources_1/new/c_2.v,,c_1,,,,,,,,
+D:/hsipin/project_1/project_1.srcs/sources_1/new/c_2.v,1573356516,verilog,,D:/hsipin/project_1/project_1.srcs/sim_1/new/test_c.v,,c_2,,,,,,,,

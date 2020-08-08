@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/hsipin/project_1/project_1.srcs/sources_1/new/c_1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module c_1
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/hsipin/project_1/project_1.srcs/sources_1/new/c_2.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module c_2
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/hsipin/project_1/project_1.srcs/sim_1/new/test_c.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_c

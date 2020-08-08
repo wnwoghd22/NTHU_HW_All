@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/hsipin/HW6a_2/HW6a_2.srcs/sim_1/new/BC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module BinaryCounter_a
+INFO: [VRFC 10-311] analyzing module BinaryCounter_b
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/hsipin/HW6a_2/HW6a_2.srcs/sim_1/new/D_FF.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module D_FF
+WARNING: [VRFC 10-3676] redeclaration of ansi port 'q' is not allowed [D:/hsipin/HW6a_2/HW6a_2.srcs/sim_1/new/D_FF.v:29]

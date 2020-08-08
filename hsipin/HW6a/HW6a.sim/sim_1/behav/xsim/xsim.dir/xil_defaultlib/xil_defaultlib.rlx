@@ -1,0 +1,8 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+D:/hsipin/HW6a/HW6a.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+D:/hsipin/HW6a/HW6a.srcs/sim_1/new/test_1_b.v,1576760010,verilog,,,,test_1_b,,,,,,,,
+D:/hsipin/HW6a/HW6a.srcs/sources_1/new/D_FF.v,1576760023,verilog,,D:/hsipin/HW6a/HW6a.srcs/sources_1/new/FourBitUpCounter.v,,D_FF,,,,,,,,
+D:/hsipin/HW6a/HW6a.srcs/sources_1/new/FourBitUpCounter.v,1576759418,verilog,,D:/hsipin/HW6a/HW6a.srcs/sim_1/new/test_1_b.v,,FourBitUpCounter,,,,,,,,

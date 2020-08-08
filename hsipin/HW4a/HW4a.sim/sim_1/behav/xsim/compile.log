@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/hsipin/HW4a/HW4a.srcs/sources_1/new/Adder.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module HalfAdder
+INFO: [VRFC 10-311] analyzing module FullAdder
+INFO: [VRFC 10-311] analyzing module Adder
+INFO: [VRFC 10-311] analyzing module BinaryDecimalConverter
+INFO: [VRFC 10-311] analyzing module DecimalAdder
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/hsipin/HW4a/HW4a.srcs/sim_1/new/Test_a1.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Test_a1
