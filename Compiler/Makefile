@@ -1,11 +1,11 @@
-simple: lex.yy.o simple.tab.o
-	gcc -o simple $^
+codegen : y.tab.c lex.yy.c SymbolTable.h
+	gcc -o codegen lex.yy.c y.tab.c SymbolTable.h -lfl
 
-simple.tab.h: simple.y
-	bison --debug --verbose -d simple.y
+y.tab.c : parser.y
+	yacc -d parser.y
 
-simple.tab.c: simple.y
-	bison -d simple.y
+y.tab.h : parser.y
+	yacc -d parser.y
 
-lex.yy.c: simple.flex simple.tab.h
-	flex simple.flex
+lex.yy.c : scanner.l
+	flex scanner.l
